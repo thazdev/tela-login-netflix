@@ -1,0 +1,234 @@
+body{
+    background-color: rgb(2, 2, 2);
+    text-align: center;
+    background-repeat: no-repeat;
+    background-image: url("https://i0.wp.com/cinemaeafins.com.br/wp-content/uploads/2023/02/netflix-fundo.jpg");
+    background-size: 100%;
+    background: radial-gradient(circle at 50% 50%, rgba(0,0,0,50%) 0%, rgba(0,0,0,90%) 90vw),
+    url(https://i0.wp.com/cinemaeafins.com.br/wp-content/uploads/2023/02/netflix-fundo.jpg), black;
+}
+
+section{
+    background-color: rgba(0, 0, 0, 0.63);
+    border-radius: 6px;
+    margin: auto;
+    margin-top: 90px;
+    padding: 210px;
+    width: 15px;
+    height: 240px;
+
+}
+
+h1{
+    color: rgb(255, 255, 255);
+    margin-top: -140px;
+    margin-left: -220px;
+    font-size: 195%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    
+}
+
+.input{
+    background-color: #333333;
+    border-radius: 6px;
+    margin-left: -150px;
+    padding: 16px 70px;
+    color: rgb(156, 156, 156);
+    border: solid 1px grey;
+    
+}
+
+.input2{
+    background-color: #333333;
+    border-radius: 6px;
+    margin-left: -150px;
+    padding: 16px 70px;
+    color: rgb(156, 156, 156);
+    border: solid 1px grey;
+}
+
+.entrar{
+    background-color: red;
+    border-radius: 6px;
+    margin-left: -150px;
+    padding: 16px 135px;
+    margin-top: 20px;
+    color: white;
+    text-align: center;
+    border: solid 1px red;
+    font-weight: 700;
+    cursor: pointer;
+    display: inline-block;
+    }
+
+.verificar{
+    border: 0px;
+    width: 20px;
+    height: 30px;
+    vertical-align: middle;
+    margin-left: -290px;
+    margin-top: 1px;
+    opacity: 0.5;
+    height: 2em;
+}
+
+.lembrar{
+    color: rgb(156, 156, 156);
+    align-self: center;
+    margin-top: -30px;
+    padding-right: 35px;
+    text-wrap: nowrap;
+    font-family: Helvetica;
+    font-size: 13px;
+    margin-top: -3px;
+    margin-left: 10px;
+    text-wrap: nowrap;
+
+}
+
+
+.arrumando{
+    margin-left: 139px;
+    text-wrap: nowrap;
+    margin-top: 10px;
+}
+
+.ajudar{
+    color: white;
+    margin-left: 39px;
+    font-family: helvetica;
+    font-size: 12px;
+    margin-top: 6px;
+}
+
+.netfliximagem{
+    position: absolute;
+    top: 1%    
+}
+
+.netfliximagem{
+    margin-top: 15px;
+    margin-left: 50px;
+}
+
+a{
+    color: rgb(156, 156, 156);
+}
+
+.novo{
+    color: rgba(156, 156, 156, 0.644);
+    margin-left: -150px;
+    text-wrap: nowrap;
+    font-family: helvetica;
+    font-size: 15px;
+    margin-top: 65px;
+}
+
+.aaa{
+    color: white;
+    font-family: helvetica;
+}
+
+.saiba{
+    text-wrap: nowrap;
+    color: rgb(156, 156, 156);
+    font-family: helvetica;
+    margin-top: 20px;
+    font-size: 13px;
+    margin-left: -150px;
+}
+
+.saibamais{
+    color: rgb(10, 115, 253);
+}
+
+.barra{
+    width: auto;
+    position: relative;
+    min-width: 190px;
+    padding-bottom: 20px;
+    padding: 0px 0px 20px;
+    border-radius: 5px;
+    margin-left: -14px;
+    margin-right: -6px;
+}
+
+.duvidas{
+    color: rgb(223, 223, 223);
+    margin-left: -800px;
+    text-wrap: nowrap;
+    margin-top: -250px;
+    font-family: helvetica;
+
+}
+
+.ligue{
+    color: white;
+}
+
+.perguntas{
+    color: white;
+    margin-left: -80px;
+    margin-top: 30px;
+    font-family: helvetica;
+    font-size: 13px;
+}
+
+.cookies{
+    color: white;
+    margin-left: -70px;
+    margin-top: 20px;
+    font-family: helvetica;
+    font-size: 13px; 
+}
+
+.central{ 
+    color: white;
+    margin-left: 400px;
+    margin-top: -67px;
+    font-family: helvetica;
+    font-size: 13px;
+}
+
+.info{
+    color: white;
+    margin-left: 450px;
+    margin-top: 20px;
+    font-family: helvetica;
+    font-size: 13px;
+}
+
+.termos{
+    color: white;
+    margin-left: 850px;
+    margin-top: -67px;
+    font-family: helvetica;
+    font-size: 13px;
+}
+
+.priv{
+    color: white;
+    margin-left: 1300px;
+    margin-top: -33px;
+    font-family: helvetica;
+    font-size: 13px;
+}
+
+.idioma{
+    margin-top: 180px;
+    margin-left: -880px;
+    width: 130px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    position: relative;
+    padding: 13px;
+    border-radius: 2px;
+    border: solid 1px grey;
+    font-family: helvetica;
+    padding-left: 30px;
+}
+
+.mundoimagem{
+    margin-top: px;
+}
